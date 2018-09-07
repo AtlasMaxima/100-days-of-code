@@ -59,10 +59,20 @@ Use a fixed-size array and two points of starting and ending positions.
 6. What applications are queue useful for?
 Breadth-first Search (BFS)
 
-
-
 Kadane's Algorithm
 1. What is Kadane's Algorithm used for ?
 2. How does Kadane's Algorithm work?
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-3"></a>
+### Day 3: September 07, 2018
+
+**Today's Focus**: Stack & Queue & Kadane's Algorithm
+
+**Details**:
+
+
 
 [Table of Contents](#toc)
