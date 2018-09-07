@@ -61,6 +61,9 @@ Breadth-first Search (BFS)
 
 Kadane's Algorithm
 1. What is Kadane's Algorithm used for ?
+Kadane's algorithm is useful for finding the maximum subarray . 
+
+
 2. How does Kadane's Algorithm work?
 
 [Table of Contents](#toc)
