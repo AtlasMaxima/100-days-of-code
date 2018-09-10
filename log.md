@@ -6,6 +6,8 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) - **09/05/18**|Balanced Parentheses & Stack|
 |[Day 2](#day-2) - **09/06/18**|Stack & Queue & Kadane's Algorithm|
+|[Day 3](#day-3) - **09/07/18**|Rotate 1D Array|
+|[Day 4](#day-4) - **09/10/18**|First Unique Character|
 
 
 ----------
@@ -61,7 +63,7 @@ Breadth-first Search (BFS)
 
 Kadane's Algorithm
 1. What is Kadane's Algorithm used for ?
-Kadane's algorithm is useful for finding the maximum subarray . 
+Kadane's algorithm is useful for finding the maximum subarray .
 
 
 2. How does Kadane's Algorithm work?
@@ -72,10 +74,21 @@ Kadane's algorithm is useful for finding the maximum subarray .
 <a name="day-3"></a>
 ### Day 3: September 07, 2018
 
-**Today's Focus**: Stack & Queue & Kadane's Algorithm
+**Today's Focus**: Rotate 1D Array
 
 **Details**:
+Given a list such that `list = [7,6,5,4,3,2,1]` and an integer `k = 3`, we want to rotate **3** times in the list.
+The end output should be as follows:
+1. `k = 0` - `list = [1,7,6,5,4,3,2]`
+2. `k = 1` - `list = [2,1,7,6,5,4,3]`
+3. `k = 2` - `list = [3,2,1,7,6,5,4]`
+----------
+<a name="day-4"></a>
+### Day 3: September 10, 2018
 
+**Today's Focus**: First Unique Character
+
+**Details**:
 
 
 [Table of Contents](#toc)
