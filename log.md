@@ -84,11 +84,36 @@ The end output should be as follows:
 3. `k = 2` - `list = [3,2,1,7,6,5,4]`
 ----------
 <a name="day-4"></a>
-### Day 3: September 10, 2018
+### Day 4: September 10, 2018
 
 **Today's Focus**: First Unique Character
 
 **Details**:
 
+[Table of Contents](#toc)
+
+----------
+<a name="day-5"></a>
+### Day 5: September 11, 2018
+
+**Today's Focus**: Merged Two Sorted Arrays
+
+**Details**:
+Given two sorted arrays of `m` and `n`, merge the `m` and `n` together whereas the length of `m` will be `m + n`.
+
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-6"></a>
+### Day 6: September 12, 2018
+
+**Today's Focus**: Time Complexity & Find the Median of Two Sorted Arrays
+
+**Details**:
+1. What is `O(log n)` time complexity?
+`log n` in `O(log n)` is in base 2 given that computers store integers in binary 1 or 0. `x = log n` can also be seen as `b^x = n`. `O(log n)` represents the algorithm behavior as a 'quantity representing the power to which the base must be raise to produce a given number'. [What does the time compleixity o log n mean?](https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf)
+
+2. 
 
 [Table of Contents](#toc)
