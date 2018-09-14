@@ -114,6 +114,29 @@ Given two sorted arrays of `m` and `n`, merge the `m` and `n` together whereas t
 1. What is `O(log n)` time complexity?
 `log n` in `O(log n)` is in base 2 given that computers store integers in binary 1 or 0. `x = log n` can also be seen as `b^x = n`. `O(log n)` represents the algorithm behavior as a 'quantity representing the power to which the base must be raise to produce a given number'. [What does the time compleixity o log n mean?](https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf)
 
-2. 
+[Table of Contents](#toc)
+
+----------
+<a name="day-7"></a>
+### Day 7: September 14, 2018
+
+**Today's Focus**: Lowest Common Ancestors & Pre-Order Traversal
+
+**Details**:
+1. What is pre-order traversal?
+Pre-order traversal is a way to traverse through a binary tree.
+2. How does pre-order traversal work?
+From root, it traverses to the left subtree, and then the right subtree. For example, given `tree = [A,B,C,D]` as input. And the output of pre-order traversal will be `output = [A, B, D, C]`. 
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-8"></a>
+### Day 8: September 15, 2018
+
+**Today's Focus**: Binary Tree
+
+**Details**:
+1. How to represent binary tree as a data structure?
 
 [Table of Contents](#toc)
