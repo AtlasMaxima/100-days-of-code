@@ -126,17 +126,28 @@ Given two sorted arrays of `m` and `n`, merge the `m` and `n` together whereas t
 1. What is pre-order traversal?
 Pre-order traversal is a way to traverse through a binary tree.
 2. How does pre-order traversal work?
-From root, it traverses to the left subtree, and then the right subtree. For example, given `tree = [A,B,C,D]` as input. And the output of pre-order traversal will be `output = [A, B, D, C]`. 
+From root, it traverses to the left subtree, and then the right subtree. For example, given `tree = [A,B,C,D]` as input. And the output of pre-order traversal will be `output = [A, B, D, C]`.
 
 [Table of Contents](#toc)
 
 ----------
 <a name="day-8"></a>
-### Day 8: September 15, 2018
+### Day 8: September 16, 2018
 
-**Today's Focus**: Binary Tree
+**Today's Focus**: Integer to Binary
 
 **Details**:
-1. How to represent binary tree as a data structure?
+1. How can we convert an integer to binary using only bitwise operators?
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-9"></a>
+### Day 9: September 17, 2018
+
+**Today's Focus**: Sum of Two Integers & Binary to Integer
+
+**Details**:
+1. How can we add two integers together without using the basic arithmetic operands such as plus or minus? 
 
 [Table of Contents](#toc)

@@ -6,6 +6,7 @@ num1 + num2 = output #0111
 output = 8 #1000
 '''
 
+# Worst Case: O(n)
 def int2Binary(num):
     output = [0] * 8
     current = num
@@ -25,5 +26,5 @@ def int2Binary(num):
     # If the num - binary[i] == 0, return output
     print(output)
 
-num = 50
+num = 2
 print(int2Binary(num))
